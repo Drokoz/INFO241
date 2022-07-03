@@ -1,0 +1,11 @@
+PASS	Basic Statistics	Libreria-15-57-R_S2_L001_R1_001.fastq
+PASS	Per base sequence quality	Libreria-15-57-R_S2_L001_R1_001.fastq
+PASS	Per tile sequence quality	Libreria-15-57-R_S2_L001_R1_001.fastq
+PASS	Per sequence quality scores	Libreria-15-57-R_S2_L001_R1_001.fastq
+FAIL	Per base sequence content	Libreria-15-57-R_S2_L001_R1_001.fastq
+FAIL	Per sequence GC content	Libreria-15-57-R_S2_L001_R1_001.fastq
+PASS	Per base N content	Libreria-15-57-R_S2_L001_R1_001.fastq
+WARN	Sequence Length Distribution	Libreria-15-57-R_S2_L001_R1_001.fastq
+FAIL	Sequence Duplication Levels	Libreria-15-57-R_S2_L001_R1_001.fastq
+FAIL	Overrepresented sequences	Libreria-15-57-R_S2_L001_R1_001.fastq
+PASS	Adapter Content	Libreria-15-57-R_S2_L001_R1_001.fastq

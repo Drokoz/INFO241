@@ -1,0 +1,4 @@
+Libreria-15-57-R_S2_L001_R1_001.fastq
+Libreria-15-57-R_S2_L001_R2_001.fastq
+Libreria-15-62_S5_L001_R1_001.fastq
+Libreria-15-62_S5_L001_R2_001.fastq
